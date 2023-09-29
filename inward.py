@@ -1130,7 +1130,6 @@ widget.showMaximized()
 
 # widget.setStyleSheet(qdarkstyle.load_stylesheet_pyqt5(qt_api='pyqt5', theme='light_fusion'))
 
-app.setStyleSheet(qdarkstyle.load_stylesheet_pyqt5())
 
 
 widget.show()
